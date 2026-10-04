@@ -43,6 +43,8 @@
 Apache Commons SCXML
 ===================
 
+Author : I S Sooriyabandara -MS26925240
+
 [![Java CI](https://github.com/apache/commons-scxml/actions/workflows/maven.yml/badge.svg)](https://github.com/apache/commons-scxml/actions/workflows/maven.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/commons-scxml/commons-scxml?label=Maven%20Central)](https://search.maven.org/artifact/commons-scxml/commons-scxml)
 [![Javadocs](https://javadoc.io/badge/org.apache.commons/commons-scxml2/2.0-alpha-1.svg)](https://javadoc.io/doc/org.apache.commons/commons-scxml2/2.0-alpha-1)
